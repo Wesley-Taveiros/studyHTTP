@@ -1,2 +1,3 @@
-# studyHTTP
-git study project
+# STUDY - HTTP
+
+project for study git
